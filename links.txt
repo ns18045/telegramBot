@@ -1,20 +1,134 @@
-https://www.101cookbooks.com/pancake-recipe/
-https://www.101cookbooks.com/pancake-recipe/
-https://www.101cookbooks.com/spicy-tempeh-crumble-bowl/
-https://www.101cookbooks.com/spicy-tempeh-crumble-bowl/
-https://www.101cookbooks.com/last-minute-red-lasagna-recipe/
-https://www.101cookbooks.com/last-minute-red-lasagna-recipe/
-https://www.101cookbooks.com/instant-pot-rice-porridge-recipe/
-https://www.101cookbooks.com/instant-pot-rice-porridge-recipe/
-https://www.101cookbooks.com/one-bowl-banana-bread/
-https://www.101cookbooks.com/one-bowl-banana-bread/
-https://www.101cookbooks.com/lemon-focaccia/
-https://www.101cookbooks.com/lemon-focaccia/
-https://www.101cookbooks.com/healthful-double-chocolate-cookies/
-https://www.101cookbooks.com/healthful-double-chocolate-cookies/
-https://www.101cookbooks.com/eight-homemade-energy-bars/
-https://www.101cookbooks.com/eight-homemade-energy-bars/
-https://www.101cookbooks.com/double-broccoli-quinoa/
-https://www.101cookbooks.com/double-broccoli-quinoa/
-https://www.101cookbooks.com/toasted-almond-sable-cookies/
-https://www.101cookbooks.com/toasted-almond-sable-cookies/
+https://www.101cookbooks.com/pancake-recipe/  breakfast
+https://www.101cookbooks.com/spicy-tempeh-crumble-bowl/ lunch
+https://www.101cookbooks.com/last-minute-red-lasagna-recipe/  diner
+https://www.101cookbooks.com/instant-pot-rice-porridge-recipe/  lunch
+https://www.101cookbooks.com/one-bowl-banana-bread/  desserts
+https://www.101cookbooks.com/lemon-focaccia/  desserts
+https://www.101cookbooks.com/healthful-double-chocolate-cookies/  desserts
+https://www.101cookbooks.com/eight-homemade-energy-bars/  desserts
+https://www.101cookbooks.com/double-broccoli-quinoa/ dinner
+https://www.101cookbooks.com/toasted-almond-sable-cookies/  desserts
+https://www.101cookbooks.com/archives/coconut-red-lentil-soup-recipe.html  desserts
+https://www.101cookbooks.com/archives/curried-tomato-tortellini-soup-recipe.html lunch
+https://www.101cookbooks.com/farro-and-bean-soup/  lunch
+https://www.101cookbooks.com/vegetarian-split-pea-soup/  lunch
+https://www.101cookbooks.com/instant-pot-rice-porridge-r  lunch
+https://www.101cookbooks.com/curried-tomato-tortellini-soup/  dinner
+https://www.101cookbooks.com/best-simple-cauliflower-soup-recipe/  breakfast
+https://www.101cookbooks.com/chickpea-rice-soup/ lunch
+https://www.101cookbooks.com/lively-up-lentil-soup/ dinner
+https://www.101cookbooks.com/simple-asparagus-soup/ lunch
+https://www.101cookbooks.com/pasta-with-smashed-zucchini-cream/ dinner
+https://www.101cookbooks.com/pasta-with-creamy-crushed-walnuts/ dinner
+https://www.101cookbooks.com/pasta-with-etruscan-sauce/ dinner
+https://www.101cookbooks.com/last-minute-red-lasagna-recipe/ dinner
+https://www.101cookbooks.com/curried-tomato-tortellini-soup/ lunch
+https://www.101cookbooks.com/beer-roasted-cauliflower/ dinner
+https://www.101cookbooks.com/weeknight-ponzu-pasta/ dinner
+https://www.101cookbooks.com/instant-pot-mushroom-stroganoff/ dinner
+https://www.101cookbooks.com/vegetable-noodle-soup/ breakfast
+https://www.101cookbooks.com/hazelnut-chard-ravioli-salad/ breakfast
+https://www.101cookbooks.com/pasta-with-baby-kale-toasted-pumpkin-seeds-and-pesto/ dinner
+https://www.101cookbooks.com/spicy-tahini-noodles/ dinner
+https://www.101cookbooks.com/archives/quick-blistered-cherry-tomato-spaghetti/ dinner
+https://www.101cookbooks.com/weeknight-pasta-ideas/ dinner
+https://www.101cookbooks.com/easy-tomato-pasta-salad/ breakfas
+https://www.101cookbooks.com/archives/ten-most-popular-noodle-recipes-recipe.html lunch
+https://www.101cookbooks.com/archives/fregola-sarda-the-perfect-lunchy-brunch-dish-recipe.html lunch
+https://www.101cookbooks.com/archives/simple-beet-fettuccine-recipe.html lunch
+https://www.101cookbooks.com/archives/last-minute-everything-bagel-noodle-bowl-recipe.html lunch
+https://www.101cookbooks.com/instant-pot-chili-mac-recipe/ lunch
+https://www.101cookbooks.com/archives/kombucha-dark-and-stormy-recipe.html drink
+https://www.101cookbooks.com/archives/calamansi-beer-cooler-recipe.html drink
+https://www.101cookbooks.com/archives/homemade-strawberry-almond-milk-recipe.html drink
+https://www.101cookbooks.com/archives/brilliant-nonalcoholic-cocktails-everyone-loves--recipe.html drink
+https://www.101cookbooks.com/archives/vitamin-c-tea-blend-recipe.html drink
+https://www.101cookbooks.com/archives/instant-pot-dynamite-cold-tonic-recipe.html drink
+https://www.101cookbooks.com/instant-pot-dynamite-cold-tonic/ drink
+https://www.101cookbooks.com/dark-and-stormy-recipe/ drink
+https://www.101cookbooks.com/yellow-tomato-bloody-mary/ drink
+https://www.101cookbooks.com/rhubarb-rosewater-syrup-recipe/ drink
+https://www.101cookbooks.com/toasted-coconut-milk/ drink
+https://www.101cookbooks.com/blood-orange-gin-sparkler/ drink
+https://www.101cookbooks.com/brownies/ desserts
+https://www.101cookbooks.com/archives/glissade-chocolate-pudding-recipe.html desserts
+https://www.101cookbooks.com/archives/chocolate-puddle-cookies-recipe.html desserts
+https://www.101cookbooks.com/archives/rosemary-olive-oil-cake-recipe.html desserts
+https://www.101cookbooks.com/cookies desserts
+https://www.101cookbooks.com/biscotti-recipe/ desserts
+https://www.101cookbooks.com/chocolate-almond-swirl-cake/ desserts
+https://www.101cookbooks.com/no-bake-chocolate-cake-recipe/ desserts
+https://www.101cookbooks.com/best-chocolate-pudding-recipe/ desserts
+https://www.101cookbooks.com/good-chocolate-recipes/ desserts
+https://www.101cookbooks.com/healthful-double-chocolate-cookies/ desserts
+https://www.101cookbooks.com/perfect-healthy-granola-recipe/ desserts
+https://www.101cookbooks.com/no-bake-energy-bites/ desserts
+https://www.101cookbooks.com/refried-beans/ lunch
+https://www.101cookbooks.com/how-to-cook-beans/ lunch
+https://www.101cookbooks.com/coleslaw-recipe/ breakfast
+https://www.101cookbooks.com/oven-fries/ dinner
+https://www.101cookbooks.com/green-rice/ lunch
+https://www.101cookbooks.com/pumpkin-and-feta-muffins/ desserts
+https://www.101cookbooks.com/perfect-mashed-potatoes/ dinner
+https://www.101cookbooks.com/vibrant-tasty-green-beans-recipe/ breakfast
+https://www.101cookbooks.com/heirloom-tomato-salad/ breakfast
+https://www.101cookbooks.com/golden-crusted-brussels-sprouts/ lunch
+https://www.101cookbooks.com/archives/stuffed-shells-recipe.html dinner
+https://www.101cookbooks.com/archives/spicy-tahini-noodles-with-roasted-vegetables-recipe.html dinner
+https://www.101cookbooks.com/archives/the-ultimate-vegan-nachos-recipe.html lunch
+https://www.101cookbooks.com/archives/saag-paneer-recipe.html lunch
+https://www.101cookbooks.com/instant_pot_recipes/ lunch
+https://www.101cookbooks.com/rice-noodle-stir-fry-recipe/ lunch
+https://www.101cookbooks.com/refried-beans/ lunch
+https://www.101cookbooks.com/pad-thai-recipe/ lunch
+https://www.101cookbooks.com/pasta-with-creamy-crushed-walnuts/ dinner
+https://www.101cookbooks.com/falafel-bowl-recipe/ lunch
+https://www.101cookbooks.com/pantry-soups/ lunch
+https://www.101cookbooks.com/green-rice/ dinner
+https://www.101cookbooks.com/great-vegan-ramen-recipe/ dinner
+https://www.101cookbooks.com/spicy-tempeh-crumble-bowl/ lunch
+https://www.101cookbooks.com/rancho-gordo-heirloom-bean-and-mushroom-carnitas-casserole/ lunch
+https://www.101cookbooks.com/archives/stuffed-shells-recipe.html  dinner
+https://www.101cookbooks.com/archives/spicy-tahini-noodles-with-roasted-vegetables-recipe.html dinner
+https://www.101cookbooks.com/archives/the-ultimate-vegan-nachos-recipe.html dinner
+https://www.101cookbooks.com/archives/saag-paneer-recipe.html dinner
+https://www.101cookbooks.com/archives/last-minute-red-lasagna-recipe.html dinner
+https://www.101cookbooks.com/instant_pot_recipes/ dinner
+https://www.101cookbooks.com/sesame-seeded-tofu-recipe/ breakfst
+https://www.101cookbooks.com/ultimate-vegan-nachos-recipe/ breakfast
+https://www.101cookbooks.com/how-to-make-a-great-vegetarian-poke-bowl/ breakfast
+https://www.101cookbooks.com/vegetarian-paella/ lunch
+https://www.101cookbooks.com/best-pizza-dough-ever/ dinner
+https://www.101cookbooks.com/rainbow-noodle-salad-recipe/ lunch
+https://www.101cookbooks.com/archives/ten-weeknight-express-recipes-ebook-recipe.html dinner
+https://www.101cookbooks.com/shepherds-pie-recipe/ lunch
+https://www.101cookbooks.com/beer-roasted-cauliflower/ dinner
+https://www.101cookbooks.com/panglazed-tempeh-recipe/ brakfast
+https://www.101cookbooks.com/archives/stuffed-shells-recipe.html  dinner
+https://www.101cookbooks.com/archives/spicy-tahini-noodles-with-roasted-vegetables-recipe.html  dinner
+https://www.101cookbooks.com/archives/the-ultimate-vegan-nachos-recipe.html dinner
+https://www.101cookbooks.com/archives/saag-paneer-recipe.html dinner
+https://www.101cookbooks.com/archives/last-minute-red-lasagna-recipe.html dinner
+https://www.101cookbooks.com/instant_pot_recipes/ lunch
+https://www.101cookbooks.com/17-of-the-easiest-dinners/ dinner
+https://www.101cookbooks.com/weeknight-ponzu-pasta/ dinner
+https://www.101cookbooks.com/instant-pot-mushroom-stroganoff/ lunch
+https://www.101cookbooks.com/quick-vegan-enchiladas/ lunch
+https://www.101cookbooks.com/white-bean-soup-with-pesto-herb-dumplings/ lunch
+https://www.101cookbooks.com/instant-pot-chickpea-cauliflower-korma/ lunch
+https://www.101cookbooks.com/winter-green-miso-paste/ dinner
+https://www.101cookbooks.com/instant-pot-minestrone-soup-recipe/ lunch
+https://www.101cookbooks.com/delicata-squash-recipes/ breakfast
+https://www.101cookbooks.com/simple-weeknight-pasta-sauce-recipes/  dinner
+http://www.101cookbooks.com/recommended-cookbooks/vegan-cookbooks.html  lunch
+https://www.101cookbooks.com/sparkling-cranberries-recipe/  desserts
+https://www.101cookbooks.com/best-simple-cauliflower-soup-recipe/ lunch
+https://www.101cookbooks.com/vibrant-tasty-green-beans-recipe/ lunch
+https://www.101cookbooks.com/how-to-make-a-great-vegetarian-poke-bowl/ lunch
+https://www.101cookbooks.com/lemon-focaccia/ desserts
+https://www.101cookbooks.com/quick-pickled-zucchini/ dinner
+https://www.101cookbooks.com/sauteed-zucchini-recipe/ dinner
+https://www.101cookbooks.com/vegetarian-paella/ dinner
+https://www.101cookbooks.com/archives/berry-swirl-ice-cream-vegan-dairy-free.html desserts
+https://www.101cookbooks.com/rainbow-noodle-salad-recipe/ breakfast
+https://www.archanaskitchen.com/homemade-mysore-pak desserts
